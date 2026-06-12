@@ -14,10 +14,6 @@ git config --global user.name "championsforged"
 git config --global user.email "bhaskaryalijala@gmail.com"
 ```
 
-### Claude Code Attribution
-- Disabled Claude co-author footer in `~/.claude/settings.json`
-- All commits authored solely as `championsforged`
-
 ---
 
 ## 2. GitHub Repository
